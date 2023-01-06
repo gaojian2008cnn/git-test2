@@ -10,5 +10,8 @@ package com.atguigu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("gitTest");
+        System.out.println("核力量");
+        System.out.println("核力量");
+        System.out.println("核力量");
     }
 }
